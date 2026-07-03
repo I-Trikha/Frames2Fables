@@ -1,0 +1,15 @@
+torch
+torchvision
+transformers
+accelerate
+bitsandbytes
+sentencepiece
+pillow
+matplotlib
+pandas
+numpy
+opencv-python
+tqdm
+huggingface-hub
+langchain
+scipy
